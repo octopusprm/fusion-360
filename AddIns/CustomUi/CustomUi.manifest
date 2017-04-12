@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Rubik's plus",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"b62c71ab-a62f-4898-afe2-ebc4087fc7a7",
+	"version":	"",
+	"runOnStartup":	false,
+	"sourcewindows":	"CustomUi.vcxproj",
+	"sourcemac":	"CustomUi.xcodeproj"
+}
